@@ -16,7 +16,6 @@ const theme = createTheme({
   }
 })
 
-
 ReactDOM.render(
   <React.StrictMode>
     <StylesProvider injectFirst>
